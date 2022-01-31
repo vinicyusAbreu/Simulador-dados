@@ -9,7 +9,7 @@ Este gerador de dados virtuais trabalha com o princípio do acaso. Os dados ser�
 ## ✨ Demonstração
 
 Veja abaixo um gif do projeto.</br>
-[![Image from Gyazo](https://i.gyazo.com/87b738a9d2b12bd8ed66f7207a1fdeab.gif)](https://gyazo.com/87b738a9d2b12bd8ed66f7207a1fdeab)
+[![Image from Gyazo](https://i.gyazo.com/81e73448267d76b59bd8f223fa4da310.gif)](https://gyazo.com/81e73448267d76b59bd8f223fa4da310)
 
 ## 🎯 Objetivo do projeto
 
